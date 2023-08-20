@@ -19,8 +19,10 @@ I'm open to collaborating on projects that align with my interests and skills. I
 You can connect with me through:
 
 - GitHub: [@EngrKamrul](https://github.com/EngrKamrul)
-- [Your preferred social media profiles, like LinkedIn or Twitter]
-- [Your personal website or blog, if applicable]
+- LinkedIn: [kamrulofficial](https://www.linkedin.com/in/kamrulofficial)
+- Twitter: [@elitekamrul](https://twitter.com/elitekamrul)
+- Facebook: [elitekamrul](https://www.facebook.com/elitekamrul)
+- Personal Website: [https://elitekamrul.me](https://elitekamrul.me)
 
 Feel free to reach out if you're interested in discussing technology, coding, or potential collaborations!
 
